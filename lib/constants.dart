@@ -9,7 +9,7 @@ const kPrimaryLabelColor = Color(0xFF242629);
 const kSecondaryLabelColor = Color(0xFF797F8A);
 const kShadowColor = Color.fromRGBO(72, 76, 82, 0.16);
 const kCourseElementIconColor = Color(0xFF17294D);
-
+//this is new commit
 // Text Styles
 var kLargeTitleStyle = TextStyle(
   fontSize: 28.0,
